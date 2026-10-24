@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TarzEH/TarzEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="header.svg" alt="TarzEH — Security Researcher" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oria)
+
+</div>
+
+---
+
+### Projects
+
+| | |
+|---|---|
+| [**JANUS**](https://github.com/TarzEH/janus) | Prompt-injection payload generator — 30 techniques, 16 mutators, OWASP LLM Top 10 mapped |
+| [**RedWeaver**](https://github.com/TarzEH/RedWeaver) | Autonomous penetration testing — multi-agent bug hunting with CrewAI |
+| [**MudaleTunnel**](https://github.com/TarzEH/MudaleTunnel) | Network pivoting control plane — SSH tunnels, discovery, CLI + dashboard |
+| [**codeguard**](https://github.com/TarzEH/codeguard) | Distributed vulnerability scanner — OSV.dev, MongoDB, ZooKeeper HA |
